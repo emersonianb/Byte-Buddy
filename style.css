@@ -1,0 +1,25 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#campo_pergunta{
+    background-color:#e1eee0;
+    border:solid 2px #5fa05f;
+    border-radius:10px;
+    width:300px;;
+    height:50px;
+    font-size: small;
+  }
+  
+  #botao-pergunta{
+    background-color:#324f2f;
+    border:solid 1px;
+    border-radius:15px;
+    width:300px;
+    height: 30px;
+    color: white;
+  }
+
+  #botao-pergunta:hover{
+    background-color:#66994f;
+  }

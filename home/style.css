@@ -1,0 +1,53 @@
+*{
+  font-family: 'Roboto Mono', monospace;
+}
+
+#titulo{
+  margin-top: 2%;
+  text-align: center;
+}
+  
+  #botao-pergunta{
+    margin-left: 80%;
+  }
+
+  #imagem{
+    margin-top: 10%;
+    margin-left: 30%;
+  }
+
+  header {
+    background-color: #0f071a;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  .logo img {
+    height: 40px;
+  }
+  
+  .site-name {
+    font-size: 24px;
+    margin-left: 10px;
+  }
+
+.container{
+    max-width: 1080px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.menu{
+    width: 50%;
+    margin-top: 3%;
+    margin-left: 20%;
+}
+
+.menu nav a{
+    color: #ffffff;
+    text-decoration: none;
+    padding-right: 20px;
+}

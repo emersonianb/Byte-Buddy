@@ -1,6 +1,6 @@
 const perguntaForm = document.getElementById("formulario_pergunta");
 
-const openaiKey = "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";
+const openaiKey = "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";
 const consulta_pt1 = "Responda somente com sim ou não se o texto abaixo é relacionado diretamente ou indiretamente a programação:";
 
 var input = document.getElementById("campo_pergunta");
